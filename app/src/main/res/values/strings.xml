@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="txt_1">Mi Primera app</string>
+    <string name="txt_2">Desarrollado por: Favio Quispe</string>
+    <string name="txt_button">A</string>
+    <string name="txt_button2">B</string>
+    <string name="txt_button3">C</string>
+    <string name="txt_button4">D</string>
+
+</resources>
